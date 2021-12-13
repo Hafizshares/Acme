@@ -1,0 +1,15 @@
+{
+"AssetName":{"Acme":"Acme","Gmail":"Gmail"},
+"AcmeUrl":"https://acme-test.uipath.com/login",
+"DashboardMenuItem":{"Work Items":"Work Items","Vendors":"Vendors","Invoices":"Invoices"},
+"PageAction":{"Specific":"Specific","Next":"Next","Previous":"Previous"},
+"Action":{"Get Data":"Get Data","Click":"Click"},
+"ButtonName":{"Search":"Search","delete":"delete"},
+"TableColumn":{"Type":"Type","Description":"Description","Date":"Date","WIID":"WIID"},
+"LabelName":["Client ID","Client Name","Client Country"],
+"Headers":["WIID","Description","Date"],
+"ShaUrl":"http://www.sha1-online.com/",
+"Status":{"Open":"Open","Completed":"Completed","Rejected":"Rejected"},
+"MailReceiver":"Vetrivel.s@e5.ai",
+"BreadCrumsButton":{"Home":"Home"}
+}
