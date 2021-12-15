@@ -10,6 +10,9 @@
 "Headers":["WIID","Description","Date"],
 "ShaUrl":"http://www.sha1-online.com/",
 "Status":{"Open":"Open","Completed":"Completed","Rejected":"Rejected"},
-"MailReceiver":"Vetrivel.s@e5.ai",
-"BreadCrumsButton":{"Home":"Home"}
+"MailReceiver":"dinesh.saravanan@e5.ai",
+"BreadCrumsButton":{"Home":"Home"},
+"FolderPath":"DownloadedPdf",
+"Reason":{"PdfReason":"No tax id in this pdf please update tax id","NoVendorReason":"No row in vendor table please update this vendor id",
+	"CompleteReason":"Completed and added invoice details"}
 }
