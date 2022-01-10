@@ -4,12 +4,18 @@
   "main": "Main.xaml",
   "dependencies": {
     "Acme": "[1.0.4]",
-    "Acme.Pdf": "[1.0.6]",
+    "Acme.Pdf": "[1.0.8]",
+    "Alphabet.Workflow.Activities": "[3.1.0]",
+    "EasyEncryption": "[1.0.2]",
+    "Element5.Core": "[1.2.25]",
+    "EmailValidation": "[1.0.3]",
+    "GetterSetter.Activities": "[1.0.4]",
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.3]",
     "UiPath.UIAutomation.Activities": "[21.10.4]",
-    "UiPath.WebAPI.Activities": "[1.9.2]"
+    "UiPath.WebAPI.Activities": "[1.9.2]",
+    "YamlDotNet": "[8.1.0]"
   },
   "webServices": [],
   "entitiesStores": [],
